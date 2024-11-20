@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "swclone",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732117477748,
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NTVkMGUxMTUzZGFlZTc3ZjBhZDNhMzZiNjZhMTFlNGY3NjU5MTRkN2QyNzA4N2RhOWI0ZjRmNjg5NGY4Y2FlNGM1OGQ1NzcwNjc1ZWUyNzQ1NWRjZTM2ZjcyNjhhMjhlYmNmZTcwZjBlZjRjNjNlMjMxMzU4NDE3ZWU1NGUyNWI=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
